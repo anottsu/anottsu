@@ -1,8 +1,8 @@
 <div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.instagram.com/anottsu.py/"><i>Juliano</i></a></h1>
-  <p align="center">Estudo Python na<a href="www.udemy.com"><i> Udemy</i></a> e compartilho meu aprendizado no <a href="https://www.instagram.com/anottsu.py/"><i>Instagram</i></a>
+  <h1 align="center">Bem vindo ao meu perfil? Eu sou o <a href="https://www.instagram.com/anottsu.py/"><i>Juliano</i></a></h1>
+  <p align="center">Estudo Python na<a href="www.udemy.com"><i> Udemy Academy</i></a> e compartilho meu aprendizado no <a href="https://www.instagram.com/anottsu.py/"><i>Instagram</i></a>
   </a><br>
-  <p align="center">Se inscreva e vamos trabalhar juntos. Tua contribuição ajudará a mim e muitas pessoas.</h2>
+  <p align="center">Se inscreva e me ajude a levar o conhecimento. Tua contribuição ajudará a mim e muitas pessoas.</h2>
 </div>
 
 
