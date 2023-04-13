@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Bem vindo ao meu perfil! Eu sou o <a href="https://www.instagram.com/anottsu.py/"><i>Juliano</i></a></h1>
-  <p align="center">Estudo Python na<a href="www.udemy.com"><i> Udemy Academy</i></a>, <a href="www.alura.com"><i> ALURA</i></a> e compartilho meu aprendizado no <a href="https://www.instagram.com/anottsu.py/"><i>Instagram</i></a>
+  <p align="center">Aprendendo a ser um Front-end de respeito porém desafiando Python  na<a href="www.udemy.com"><i> Udemy Academy</i></a>, <a href="www.alura.com"><i> ALURA</i></a> e compartilho meu aprendizado no <a href="https://www.instagram.com/anottsu.py/"><i>Instagram</i></a>
   </a><br>
   <p align="center">Se inscreva e me ajude a levar o conhecimento. Tua contribuição ajudará a mim e muitas pessoas.</h2>
 </div>
