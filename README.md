@@ -1,10 +1,15 @@
-<div>
-  <h1 align="center">Bem vindo ao meu perfil! Eu sou o <a href="https://www.instagram.com/anottsu.py/"><i>Juliano</i></a></h1>
-  <p align="center">Estudante de DevOps e CyberSec na<a href="www.udemy.com"><i> Udemy Academy</i></a>, <a href="www.alura.com"><i> ALURA</i></a> e compartilho meu aprendizado no <a href="https://www.instagram.com/anottsu.py/"><i>Instagram</i></a>
-  </a><br>
-  <p align="center">Se inscreva e me ajude a levar o conhecimento. Tua contribuição ajudará a mim e muitas pessoas.</h2>
+
+<div align="center">
+  <a href="https://github.com/ANOTTSU" align="center">
+  <img width=80% src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=100&section=head&text=Welcome%20to%20my%20profile!&fontSize=30&animation=blinking"/>
+  </a> 
 </div>
 
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=001B79&size=25&center=true&vCenter=true&width=1000&lines=+I'm+Juliano+Pereira;Actually+I+study+DEVOPS+and+CYBERSEC;Feel+comfortable+to+contribute+and+get+my+repositories;)](https://github.com/anottsu)
+
+</div>
 
 <div align="center">
   <a href="https://github.com/anottsu">
@@ -45,4 +50,5 @@
   <p>これが私の忍者のあり方です</p>
   <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
 </div>
+
 
