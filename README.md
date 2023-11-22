@@ -41,8 +41,7 @@
   <img align="center" alt="AWS" height="100" width="100" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
   <img align="center" alt="git" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="github" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="linux" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-</div><br>
+  </div><br>
 
 
 <div align="center">
