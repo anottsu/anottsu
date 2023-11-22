@@ -1,7 +1,7 @@
 
 <div align="center">
   <a href="https://github.com/ANOTTSU" align="center">
-  <img width=80% src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=100&section=head&text=Welcome%20to%20my%20profile!&fontSize=30&animation=blinking"/>
+  <img width=74% src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=80&section=head&text=Welcome%20to%20my%20profile!&fontSize=30&hide&animation=blinking"/>
   </a> 
 </div>
 
