@@ -1,7 +1,7 @@
           
 <div align="center">
   <a href="https://github.com/ANOTTSU" align="center">
-  <img width=74% src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=80&section=head&text=Start%20where%20you%20are.%20Use%20what%20you%20have.%20Do%20what%20you%20can.&fontSize=30&hide&animation=blinking"/>
+  <img width=80% src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=80&section=head&text=Start%20where%20you%20are.%20Use%20what%20you%20have.%20Do%20what%20you%20can.&fontSize=30&hide&animation=blinking"/>
   </a> 
 </div>
 
