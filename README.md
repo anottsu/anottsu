@@ -1,13 +1,13 @@
-
+          
 <div align="center">
   <a href="https://github.com/ANOTTSU" align="center">
-  <img width=74% src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=80&section=head&text=Welcome%20to%20my%20profile!&fontSize=30&hide&animation=blinking"/>
+  <img width=74% src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=80&section=head&text=Start%20where%20you%20are.%20Use%20what%20you%20have.%20Do%20what%20you%20can.&fontSize=30&hide&animation=blinking"/>
   </a> 
 </div>
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=001B79&size=25&center=true&vCenter=true&width=1000&lines=+I'm+Juliano+Pereira;Actually+I+study+DEVOPS+and+CYBERSEC;Feel+comfortable+to+contribute+and+get+my+repositories;)](https://github.com/anottsu)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=001B79&size=25&center=true&vCenter=true&width=1000&lines=+I'm+Juliano+Pereira;Actually+I+study+DEVOPS+and+CYBERSEC;Feel+comfortable+to+contribute;and+get+my+repositories;)](https://github.com/anottsu)
   
 </div>
 <div align="center">
