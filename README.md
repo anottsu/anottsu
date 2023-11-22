@@ -13,15 +13,15 @@
 
 <div align="center">
     <a href="https://github.com/anottsu">
-    <img  height="150em"src="https://github-readme-stats.vercel.app/api?username=anottsu&show_icons=true&count_private=true&hide_border=true&title_color=FAFF00&icon_color=6474B9&text_color=FFFFFF&bg_color=0a0c10&hide=contribs&theme=transparent&include_all_commits=true&rank_icon=github" alt="Juliano Pereira github stats"/>
+    <img height="150em"src="https://github-readme-stats.vercel.app/api?username=anottsu&show_icons=true&count_private=true&hide_border=true&title_color=FAFF00&icon_color=6474B9&text_color=FFFFFF&bg_color=0a0c10&hide=contribs&theme=transparent&include_all_commits=true&rank_icon=github" alt="Juliano Pereira github stats"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anottsu&bg_color=0a0c10&theme=transparent&title_color=FAFF00&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
 
 <div align="center">
-
-[![anottsu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anottsu&title_color=FAFF00&bg_color=0a0c10&color=937CD5&line=F0F0F0&point=FAFF00&area=true&hide_border=false)](https://github.com/anottsu)
+<img width=73%
+src=https://github-readme-activity-graph.vercel.app/graph?username=anottsu&title_color=FAFF00&bg_color=0a0c10&color=937CD5&line=F0F0F0&point=FAFF00&area=true&hide_border=false&(https://github.com/anottsu)/>
 
 </div>
 
@@ -51,15 +51,6 @@
   <a href="mailto:anottsu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<div align="center">
-  
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
 
-<div align="center">
-  <p>これが私の忍者のあり方です</p>
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
-</div>
 
 
