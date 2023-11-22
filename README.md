@@ -1,7 +1,7 @@
           
 <div align="center">
   <a href="https://github.com/ANOTTSU" align="center">
-  <img width=80% src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=80&section=head&text=Start%20where%20you%20are.%20Use%20what%20you%20have.%20Do%20what%20you%20can.&fontSize=30&hide&animation=blinking"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=80&section=head&text=Start%20where%20you%20are.%20Use%20what%20you%20have.%20Do%20what%20you%20can.&fontSize=30&hide&animation=blinking"/>
   </a> 
 </div>
 
@@ -25,7 +25,7 @@
 
 
 <div align="center">
-<img width=73% src=https://github-readme-activity-graph.vercel.app/graph?username=anottsu&title_color=FAFF00&bg_color=0a0c10&color=937CD5&line=F0F0F0&point=FAFF00&area=true&hide_border=false&(https://github.com/anottsu)/>  
+<img width=100% src=https://github-readme-activity-graph.vercel.app/graph?username=anottsu&title_color=FAFF00&bg_color=0a0c10&color=937CD5&line=F0F0F0&point=FAFF00&area=true&hide_border=false&(https://github.com/anottsu)/>  
 </div>
 
 <div align="center" valign="top">
