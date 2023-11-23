@@ -16,12 +16,15 @@
   <a href="mailto:anottsu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%CD0404?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+
+-----------------------
 <div align="center">
     <a href="https://github.com/anottsu">
-    <img height="150em"src="https://github-readme-stats.vercel.app/api?username=anottsu&show_icons=true&count_private=true&hide_border=true&title_color=FAFF00&icon_color=6474B9&text_color=FFFFFF&bg_color=0a0c10&color=000000&hide=contribs&theme=transparent&include_all_commits=true&rank_icon=github"alt="Juliano Pereira github stats"/>   
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anottsu&bg_color=0a0c10&theme=transparent&title_color=FAFF00&text_color=FFFFFF&hide_border=false&&layout=compact"/>
+        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=anottsu&show_icons=true&count_private=true&title_color=FAFF00&icon_color=6474B9&text_color=FFFFFF&bg_color=0a0c10&color=000000&hide=contribs&theme=transparent&include_all_commits=true&rank_icon=github" alt="Juliano Pereira github stats"/>
+        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anottsu&bg_color=0a0c10&theme=transparent&title_color=FAFF00&text_color=FFFFFF&hide_border=false&layout=compact"/>
     </a>
 </div>
+
 
 
 <div align="center">
