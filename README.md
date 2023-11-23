@@ -19,7 +19,7 @@
 <div align="center">
     <a href="https://github.com/anottsu">
     <img height="150em"src="https://github-readme-stats.vercel.app/api?username=anottsu&show_icons=true&count_private=true&hide_border=true&title_color=FAFF00&icon_color=6474B9&text_color=FFFFFF&bg_color=0a0c10&hide=contribs&thme=000000&include_all_commits=true&rank_icon=github"alt="Juliano Pereira github stats"/>   
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anottsu&bg_color=0a0c10&theme=transparent&title_color=FAFF00&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anottsu&bg_color=0a0c10&theme=000000&title_color=FAFF00&hide_border=false&&layout=compact"/>
     </a>
 </div>
 
