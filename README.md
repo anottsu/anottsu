@@ -28,7 +28,7 @@
 
 
 <div align="center">
-<img width=88% src=https://github-readme-activity-graph.vercel.app/graph?username=anottsu&title_color=FAFF00&bg_color=0a0c10&color=937CD5&line=F0F0F0&point=FAFF00&area=true&hide_border=false&(https://github.com/anottsu)/>  
+<img width=100% src=https://github-readme-activity-graph.vercel.app/graph?username=anottsu&title_color=7752FE&bg_color=0a0c10&color=937CD5&line=F0F0F0&point=7752FE&area=true&hide_border=false&(https://github.com/anottsu)/>  
 </div>
 
 <div align="center" valign="top">
