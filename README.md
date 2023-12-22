@@ -7,7 +7,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=001B79&size=25&center=true&vCenter=true&width=1000&lines=+I'm+Juliano+Pereira;Actually+I+study+DEVOPS+and+CYBERSEC;Feel+comfortable+to+contribute;and+get+my+repositories;)](https://github.com/anottsu)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=001B79&size=25&center=true&vCenter=true&width=1000&lines=+I'm+Juliano+Pereira;Actually+I+studying+DEVOPS+and+CYBERSEC;Feel+comfortable+to+contribute;and+get+my+repositories;)](https://github.com/anottsu)
   
 </div>
 <div align="center">
