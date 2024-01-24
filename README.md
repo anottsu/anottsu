@@ -18,6 +18,7 @@
 
 
 -----------------------
+
 <div align="center">
     <a href="https://github.com/anottsu">
     <img height="150em"src="https://github-readme-stats.vercel.app/api?username=anottsu&show_icons=true&count_private=true&hide_border=true&title_color=7752FE&icon_color=6474B9&text_color=7752FE&bg_color=0a0c10&hide=contribs&thme=transparent&include_all_commits=true&rank_icon=github"alt="Juliano github status"/>   
